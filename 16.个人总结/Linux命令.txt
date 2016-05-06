@@ -1,0 +1,36 @@
+cd .. 上一级
+cd /  根目录
+
+ctrl+z 退出
+
+sh shell (bash shell)
+
+1:ls - list 列举目录
+2:mkdir - make directory 创建一个新目录
+3:pwd - print working directory 显示当前工作目录
+4:cd - change directory 设置当前工作目录
+5:rmdir - remove directory 移除工作目录
+6:rm － 删除给定的文件   rm -r 递归删除文件夹
+7:cp - copy [cp source destination] 递归[cp -r source destination]
+8:mv - move [mv source destination]
+9:cat - concatenate and print files 查看打印文件
+10:tail - print tail(from last)> [tail ] [tail -n N ]
+11:less - print less 按页或窗口打开文件 ctrl＋F 向前 ctrl＋B 向后
+12:grep “<String>” file 在文件中搜索字符 ［grep -i 忽略大小写］[grep -r 文件递归查找]
+13:find 给定位置搜索文件 find <folder> -iname file 在给定位置忽略大小写搜索
+14:tar 创建（－cvf 压缩名 文件）、查看（-tvf 文件）、提取压缩文件（－xvf 文件） 
+15:gzip 创建（gzip）  提取（gzip -d）
+16:unzip (解压zip文件) （unzip -l 文件）查看文件内容
+17：命令 ＋ help（h）  获取命令的用法
+18:whatis + 命令 会用单行来描述给定的命令
+19:man ＋ 命令 会为给定命令显示一个手册页面
+20:exit 结束
+21:ping ＋ 远端服务器地址  通常发送数据包ping远程服务器主机 常用于检测网络连接和服务器状态
+22：who 列出当前登录的用户
+23:su + 用户名 用于切换不同的用户 
+24:uname 用于显示系统的重要信息 uname －a 查看所有
+25:free 显示内存情况 free -m 转换单位为kb free -g 转换GB
+26:df 磁盘使用情况 df -h 显示为人类可读方式
+27:ps 显示运行的进程
+28:top 内存使用较大的进程 top－u ＋用户名 查看某个用户
+29:shutdown 关闭计算机 shutdown -r 重启计算机

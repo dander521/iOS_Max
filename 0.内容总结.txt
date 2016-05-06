@@ -1,0 +1,19 @@
+http://blog.devtang.com
+http://blog.ibireme.com/author/ibireme/
+
+我的github：https://github.com/dander521/Study-Summary
+
+1.项目架构	如何快速熟悉公司项目（MVC），文件目录，类命名，代码规范
+2.并行开发 	SVN Git
+3.数据请求 	AFN ASI
+4.字典模型 	YYModel JsonModel
+5.数据存储 	FMDB CoreData SQLitePersistentObjects
+6.数据展示 	AsyncDisplayKit MJ MBProgressHUD 
+7.UI布局  	AutoLayout
+8.动画	  	UIView layer 3D UIViewController 第三方 pop
+9.创建静态库、动态库
+
+
+10.开发者账号相关操作
+11.常用工具
+12.cocoaPods
